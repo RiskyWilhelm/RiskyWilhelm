@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RiskyWilhelm
+- 👋 Hi, I’m @RiskyWilhelm (as known as Yunus Yıldız)
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning html website things
-- 💞️ I’m looking to collaborate on............
-- 📫 How to reach me discord Risky#8850
+- 💞️ I’m looking to collaborate on nowhere lol
+- 📫 How u gonna reach me? from discord man Risky#8850
 
 <!---
 RiskyWilhelm/RiskyWilhelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
