@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiskyWilhelm (as known as Yunus Yıldız)
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning html website things
-- 💞️ I’m looking to collaborate on nowhere lol
+- 💞️ I’m looking to collaborate on somewhere
 - 📫 How u gonna reach me? from discord man Risky#8850
 
 <!---
