@@ -1,5 +1,3 @@
-My name is Yunus Yıldız
-I’m interested in making games
 yunusyld7@gmail.com
 
 <!---
